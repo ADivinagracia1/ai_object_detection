@@ -6,9 +6,14 @@ an machine learning project suited for object detection, trained on the [bdd100k
 - Develop a model that can identify road objects such as cars, buses, pedestrians, etc.
 - Implement the model on an embedded device using a camera for real-time processing or with a video stream
 
-![demo](rpi_demo.jpg "raspberry_pi_demo")
 
 [![ML_object_detection](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAfIkaPXglrY%26ab_channel%3DAtodo)](https://www.youtube.com/watch?v=AfIkaPXglrY&ab_channel=Atodo)
+
+-------------
+
+![demo](rpi_demo.jpg "raspberry_pi_demo")
+
+-------------
 
 Object Detection: Locate the presence of objects with a bounding box and types or classes of the located objects in an image.
 Input: An image with one or more objects.
