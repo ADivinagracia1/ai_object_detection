@@ -1,0 +1,5 @@
+classes = 10
+train = /content/drive/MyDrive/colab_data/cardata/bdd100k_images/bdd100k/model_training/100k/yolov4proj/darknet/bdd100k/train.txt
+valid = /content/drive/MyDrive/colab_data/cardata/bdd100k_images/bdd100k/model_training/100k/yolov4proj/darknet/bdd100k/val.txt
+names = /content/drive/MyDrive/colab_data/cardata/bdd100k_images/bdd100k/model_training/100k/yolov4proj/darknet/bdd100k/bdd100k.names
+backup = bdd100k/backup/

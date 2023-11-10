@@ -1,0 +1,6 @@
+tkDNN: https://github.com/ceccocats/tkDNN
+YOLOv5: https://github.com/ultralytics/yolov5
+darknet: https://github.com/AlexeyAB/darknet
+Detectron2: https://github.com/facebookresearch/detectron2
+tensorrtx: https://github.com/wang-xinyu/tensorrtx/tree/master/yolov5
+BDD100k Dataset: https://github.com/bdd100k/bdd100k
